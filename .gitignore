@@ -1,3 +1,7 @@
+.DS_Store
+output/*
+google-generated-creds.json
+
 # Logs
 logs
 *.log

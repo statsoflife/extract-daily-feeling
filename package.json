@@ -15,7 +15,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node ./index.js",
+    "check-for-missing": "node ./check-for-missing.js"
   },
   "author": "Alistair Brown <github@alistairjcbrown.com>",
   "license": "MIT"
